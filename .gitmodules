@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "deepredeff"]
-	path = deepredeff
-	url = https://github.com/ruthkr/deepredeff
-	shallow = true
-	registered = true
 [submodule "greatR"]
 	path = greatR
 	url = https://github.com/ruthkr/greatr
