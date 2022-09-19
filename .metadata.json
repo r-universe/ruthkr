@@ -1,5 +1,9 @@
 [
   {
+    "package": "deepredeff",
+    "oncran": true
+  },
+  {
     "package": "greatR",
     "oncran": true
   }
