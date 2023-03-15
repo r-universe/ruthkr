@@ -1,10 +1,10 @@
 [
   {
-    "package": "deepredeff",
+    "package": "greatR",
     "oncran": true
   },
   {
-    "package": "greatR",
+    "package": "deepredeff",
     "oncran": true
   }
 ]
