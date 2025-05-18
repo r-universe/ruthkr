@@ -5,6 +5,3 @@
 [submodule "deepredeff"]
 	path = deepredeff
 	url = https://github.com/ruthkr/deepredeff
-[submodule "greatR"]
-	path = greatR
-	url = https://github.com/ruthkr/greatr
